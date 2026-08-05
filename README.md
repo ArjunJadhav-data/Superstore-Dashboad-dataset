@@ -15,7 +15,7 @@ Developed a comprehensive end-to-end business intelligence solution using the **
 * [cite_start]**Interactive Navigation:** Includes a collapsible filter menu for Region/Year and a logo that redirects to the live [Tableau Public Profile](https://public.tableau.com/in/jadhavarjun21)[cite: 5, 8].
 
 ## 🛠️ Technical Workflow
-### 1. Data Cleaning & Validation (SQL)
+### 1. Data Cleaning & Validation(SQL)
 * [cite_start]Analyzed 50,000+ records using **SQL joins, CTEs, and window functions** to ensure data integrity.
 * [cite_start]Performed systematic data validation, achieving **98% data accuracy** across operational datasets.
 * [cite_start]Handled missing values and duplicates, improving overall data quality by **95%**.
