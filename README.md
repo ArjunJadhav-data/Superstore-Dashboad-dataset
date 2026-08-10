@@ -21,7 +21,7 @@ Developed a comprehensive end-to-end business intelligence solution using the **
 * [cite_start]Handled missing values and duplicates, improving overall data quality by **95%**.
 
 ### 2. Dashboard Development (Tableau)
-* [cite_start]**Geospatial Mapping:** Visualized sales by state to identify high-revenue territories
+* [cite_start]**Geospatial Mapping:** Visualized sales by state to identify high-revenue territories.
 * [cite_start]**Trend Analysis:** Integrated **Trend Lines** and **Average Lines** in time-series charts to forecast monthly sales patterns.
 * [cite_start]**Action Filters:** Implemented dashboard actions where interacting with the "Category" chart updates all 6 sub-visualizations and KPI cards instantly.
 
