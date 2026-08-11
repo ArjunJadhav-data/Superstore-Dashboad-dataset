@@ -1,4 +1,4 @@
-# Superstore Sales Analysis & Interactive Dashboard
+# Superstore Sales Analysis & Interactive Dashboards
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=MySQL&logoColor=white)
