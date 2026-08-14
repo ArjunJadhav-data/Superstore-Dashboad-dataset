@@ -5,7 +5,7 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 📌 Project Overview
+## 📌 Project OvervieW
 Developed a comprehensive end-to-end business intelligence solution using the **Sample Superstore dataset**. [cite_start]This project transforms raw data into a dynamic, multi-plane dashboard that provides deep insights into sales performance, profitability, and customer behavior across the USA.
 
 ## 🚀 Key Features
